@@ -1,2 +1,0 @@
-# job-logger
-joblogger exercise
